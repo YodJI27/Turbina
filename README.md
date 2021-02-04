@@ -19,7 +19,7 @@
 - [Юрий Папков](https://github.com/YuryPapkov)  
 - [Евгений Проскурников](https://github.com/Evgeny-Proskurnikov)
 
-- - [Рекомендательное письмо от наставника](https://imgur.com/a/Rn8cfk5)
+**[Рекомендательное письмо от наставника](https://imgur.com/a/Rn8cfk5)**
 
 ## Сайт
 
