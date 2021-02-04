@@ -14,10 +14,16 @@
 
 ## Разработчики
 
-[Иван Солнышкин](https://github.com/cycymah) 
-Илья Шнырев ( yodji27 )  
-Юрий Папков  
-Евгений Проскурников  
+[Рекомендательное письмо от наставника](file:///C:/Users/Leo27/Downloads/rek_pismo_solnishkin.pdf)
+
+[Иван Солнышкин](https://github.com/cycymah)  
+[Илья Шнырев](https://github.com/YodJI27)  
+[Юрий Папков](https://github.com/YuryPapkov)  
+[Евгений Проскурников](https://github.com/Evgeny-Proskurnikov)
+
+## Сайт
+
+[Ссылка на сайт](https://yodji27.github.io/turbina/)
 
 ##### Установка
 
