@@ -12,12 +12,11 @@
 2) React
 3) API
 4) Webpack
-5) Grid
-6) Flex
+5) Node.js
+6) Flex/Grid
 7) БЭМ Nested
 8) Адаптивная верстка ( сайт полностью адаптирован под все разрешения )
 9) Анимации
-10) Node.js
 ## Сайт
 
 [Ссылка на сайт](https://yodji27.github.io/turbina/)  
