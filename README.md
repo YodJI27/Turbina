@@ -9,7 +9,7 @@
 
 **Применяемые технологии:**
 1) HTML5,CSS3, JS ES6
-2) React
+2) React.js
 3) API
 4) Webpack
 5) Node.js
